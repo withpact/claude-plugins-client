@@ -1,0 +1,14 @@
+{
+  "name": "withpact",
+  "owner": { "name": "Pact", "email": "team@withpact.com" },
+  "metadata": {
+    "description": "Pact's client plugin — conversational planning and coordination through beads."
+  },
+  "plugins": [
+    {
+      "name": "pact",
+      "source": "./plugins/pact",
+      "description": "Plan projects, structure work, guide hierarchy, and request reports through Pact. The conversational planning assistant for founders, executives, and managers."
+    }
+  ]
+}
