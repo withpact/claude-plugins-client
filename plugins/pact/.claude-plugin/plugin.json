@@ -1,6 +1,6 @@
 {
   "name": "pact",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Pact coordination system: plan projects, define goals, structure work, produce milestone-and-ownership reports and by-person planning views \u2014 all coordinated through beads. A conversational planning and reporting assistant for founders, executives, and managers.",
   "author": {
     "name": "Pact"
