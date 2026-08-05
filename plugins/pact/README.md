@@ -12,6 +12,10 @@ This plugin installs five skills that activate on their own when relevant:
 - **pact-reporting** — status reports and per-person planning views.
 - **pact-loops** (optional) — recurring reports delivered on a schedule.
 
+And one slash command:
+
+- **/my-pacts** — your open pacts as one structured table: stable `PACT-#### · alias` handles, Responsible & Accountable, due dates, and a completeness check. Same command, same table, every time.
+
 ## Setup
 
 1. Install this plugin.
