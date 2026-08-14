@@ -13,6 +13,7 @@ This plugin installs eight skills that activate on their own when relevant:
 - **pact-goals** — defining a project's goal and what success looks like, and revisiting it over time.
 - **pact-reporting** — per-person planning views: who is working on what.
 - **pact-stakeholder-report** — will we hit a milestone, and who owns what's in the way.
+- **pact-win-detection** — sweep the board's own record for undocumented client wins and document each as a `WIN:` note + `win` tag, so reports credit them without a human having to remember.
 - **pact-loops** (optional) — recurring reports delivered on a schedule.
 
 And one slash command:
